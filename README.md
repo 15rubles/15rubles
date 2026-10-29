@@ -1,4 +1,4 @@
-<img align="right" width="150" src="images/avatar.png" alt="Black and white Kuromi figure with one half showing a cartoon skeleton">
+
 
 # ⛓⛓ Hi, I'm Aleksei! ⛓⛓
 
