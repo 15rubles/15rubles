@@ -5,9 +5,9 @@
 <img align="right" width="160" src="images/avatar.svg" alt="Cartoon fox head on a peach circle with white sparkles">
 
 *CS student at [Bellevue College](https://www.bellevuecollege.edu)* 🎓<br>
-*Former Java backend developer, future game studio founder* ⚔️
+*Java backend developer, future game studio founder* ⚔️
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/15rubles?label=Follow&style=social)
 
 [About me](#about-me) · [My toolbox](#my-toolbox) · [My next steps](#my-next-steps) · [Beyond the keyboard](#beyond-the-keyboard)
 
