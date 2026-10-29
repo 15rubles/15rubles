@@ -15,12 +15,12 @@
 
 ```java
 Developer aleksei = Developer.builder()
-    .role("CS student, transferring to UW in Fall 2027")
+    .role("CS student, Java backend developer")
     .experience("2 years of Java + Spring backend systems")
-    .code(List.of("Java", "SQL", "GDScript"))
+    .code(List.of("Java", "SQL", "C#", "Python", "C++"))
     .learning(List.of("Godot", "JavaScript", "React"))
-    .building("Aura Knight, my own game")
-    .shipped("Car Tone, a mobile game (publishing soon, promise)")
+    .building("my own game, hardware projects")
+    .shipped("a lot of production code, some hobby projects")
     .build();
 ```
 
@@ -40,35 +40,36 @@ Developer aleksei = Developer.builder()
 
 | Tech | What for | Confidence |
 | :--- | :--- | :---: |
-| Java + Spring | Backend systems | Comfortable ☕ |
+| Java | Backend services and data migrations | Comfortable ☕ |
+| Spring Boot | REST APIs, sync pipelines for ORCID, DSpace, Scopus | Comfortable |
+| PostgreSQL | Migrated 10+ years of data from Oracle | Comfortable 🐘 |
+| Angular | SSR tuning for faster loads and SEO | Solid |
+| Jenkins + Bitbucket | CI/CD pipelines | Solid |
 | Git | Version control | Solid |
 | Godot | Aura Knight | Just started 🌱 |
 | React | Frontends | Just started 🌱 |
 
+
 ### Currently learning
 
-1. Godot
+1. AI/ML
 2. JavaScript and React
 3. Data structures and algorithms
+4. Godot
 
 ## My next steps
 
 - [x] Finish my first mobile game
-- [x] Create my GitHub profile README
-- [ ] Publish Car Tone
-- [ ] Transfer to UW
+- [x] Create this GitHub profile README
+- [ ] Time skip
 - [ ] Found my own game studio
 
 ## Beyond the keyboard
 
 Warhammer 40k, DnD, and *Magic* Commander, where I convince the table I am \*not\* the threat.
 
-<details>
-<summary>A completely unnecessary fact</summary>
 
-I like foxes and tomatoes. Not together.
-
-</details>
+[![Griffith talks about dreams in Berserk](https://img.youtube.com/vi/vVmSieXnoiY/hqdefault.jpg)](https://www.youtube.com/watch?v=vVmSieXnoiY)
 
 ---
 
