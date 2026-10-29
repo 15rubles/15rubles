@@ -1,16 +1,75 @@
-## Hi there 👋
+<!-- Future me: replace every YOUR-USERNAME with my real GitHub username. -->
 
-<!--
-**15rubles/15rubles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aleksei! 🦊
 
-Here are some ideas to get you started:
+<img align="right" width="260" src="images/avatar.svg" alt="Cartoon fox head on a peach circle with white sparkles">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*CS student at [Bellevue College](https://www.bellevuecollege.edu)* 🎓<br>
+*Former Java backend developer, future game studio founder* ⚔️
+
+![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social)
+
+[About me](#about-me) · [My toolbox](#my-toolbox) · [My next steps](#my-next-steps) · [Beyond the keyboard](#beyond-the-keyboard)
+
+## About me
+
+```java
+Developer aleksei = Developer.builder()
+    .role("CS student, transferring to UW in Fall 2027")
+    .experience("2 years of Java + Spring backend systems")
+    .code(List.of("Java", "SQL", "GDScript"))
+    .learning(List.of("Godot", "JavaScript", "React"))
+    .building("Aura Knight, my own game")
+    .shipped("Car Tone, a mobile game (publishing soon, promise)")
+    .build();
+```
+
+**I like making things** my own way, ~~not~~ rarely by the manual. Games and code have been my thing since I was a kid.
+
+- Making games
+  - **Aura Knight** - prototyping in [Godot](https://godotengine.org)
+  - **Car Tone** - finished, waiting for launch day
+- Backend engineering with `Spring Boot`
+- Math and algorithms
+
+> Validate your inputs. Trust no one. Especially `null`. - me
+
+---
+
+## My toolbox
+
+| Tech | What for | Confidence |
+| :--- | :--- | :---: |
+| Java + Spring | Backend systems | Comfortable ☕ |
+| Git | Version control | Solid |
+| Godot | Aura Knight | Just started 🌱 |
+| React | Frontends | Just started 🌱 |
+
+### Currently learning
+
+1. Godot
+2. JavaScript and React
+3. Data structures and algorithms
+
+## My next steps
+
+- [x] Finish my first mobile game
+- [x] Create my GitHub profile README
+- [ ] Publish Car Tone
+- [ ] Transfer to UW
+- [ ] Found my own game studio
+
+## Beyond the keyboard
+
+Warhammer 40k, DnD, and *Magic* Commander, where I convince the table I am \*not\* the threat.
+
+<details>
+<summary>A completely unnecessary fact</summary>
+
+I like foxes and tomatoes. Not together.
+
+</details>
+
+---
+
+🤝 ***I like meeting people who build things*** - say hi, I'd be happy to chat!
