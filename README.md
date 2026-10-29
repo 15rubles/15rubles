@@ -1,4 +1,4 @@
-# Hi, I'm Aleksei! 🦊
+# ⛓⛓ Hi, I'm Aleksei! ⛓⛓
 
 <img align="right" width="160" src="images/avatar.png" alt="Cartoon fox head on a peach circle with white sparkles">
 
