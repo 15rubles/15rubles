@@ -2,7 +2,7 @@
 
 # Hi, I'm Aleksei! 🦊
 
-<img align="right" width="260" src="images/avatar.svg" alt="Cartoon fox head on a peach circle with white sparkles">
+<img align="right" width="160" src="images/avatar.svg" alt="Cartoon fox head on a peach circle with white sparkles">
 
 *CS student at [Bellevue College](https://www.bellevuecollege.edu)* 🎓<br>
 *Former Java backend developer, future game studio founder* ⚔️
