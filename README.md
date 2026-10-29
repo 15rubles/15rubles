@@ -1,5 +1,3 @@
-<!-- Future me: replace every YOUR-USERNAME with my real GitHub username. -->
-
 # Hi, I'm Aleksei! 🦊
 
 <img align="right" width="160" src="images/avatar.svg" alt="Cartoon fox head on a peach circle with white sparkles">
@@ -9,7 +7,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/15rubles?label=Follow&style=social)
 
-[About me](#about-me) · [My toolbox](#my-toolbox) · [My next steps](#my-next-steps) · [Beyond the keyboard](#beyond-the-keyboard)
+[About me](#about-me) · [My toolbox](#my-toolbox) · [My next steps](#my-next-steps) · [Touching grass](#touching-grass)
 
 ## About me
 
@@ -38,17 +36,16 @@ Developer aleksei = Developer.builder()
 
 ## My toolbox
 
-| Tech | What for | Confidence |
+| Stack | Used for | Level |
 | :--- | :--- | :---: |
-| Java | Backend services and data migrations | Comfortable ☕ |
-| Spring Boot | REST APIs, sync pipelines for ORCID, DSpace, Scopus | Comfortable |
-| PostgreSQL | Migrated 10+ years of data from Oracle | Comfortable 🐘 |
-| Angular | SSR tuning for faster loads and SEO | Solid |
-| Jenkins + Bitbucket | CI/CD pipelines | Solid |
-| Git | Version control | Solid |
-| Godot | Aura Knight | Just started 🌱 |
-| React | Frontends | Just started 🌱 |
+| Java, Spring Boot | REST APIs, ORCID / DSpace / Scopus sync | Comfortable ☕ |
+| PostgreSQL | 10+ years of data migrated from Oracle | Comfortable 🐘 |
+| Angular, Jenkins, Bitbucket, Git | SSR tuning, CI/CD, version control | Solid |
+| Godot, React | Aura Knight, frontends | Just started 🌱 |
 
+<table>
+<tr>
+<td valign="top">
 
 ### Currently learning
 
@@ -57,6 +54,9 @@ Developer aleksei = Developer.builder()
 3. Data structures and algorithms
 4. Godot
 
+</td>
+<td valign="top">
+
 ## My next steps
 
 - [x] Finish my first mobile game
@@ -64,13 +64,21 @@ Developer aleksei = Developer.builder()
 - [ ] Time skip
 - [ ] Found my own game studio
 
-## Beyond the keyboard
+</td>
+</tr>
+</table>
 
-Warhammer 40k, DnD, and *Magic* Commander, where I convince the table I am \*not\* the threat.
+## Touching grass
 
+Warhammer 40k, DnD, and *Magic*, where I convince the table I am \*not\* the threat.
+
+<details>
+<summary>⚔️⚔️⚔️</summary>
 
 [![Griffith talks about dreams in Berserk](https://img.youtube.com/vi/vVmSieXnoiY/hqdefault.jpg)](https://www.youtube.com/watch?v=vVmSieXnoiY)
 
+</details>
+
 ---
 
-🤝 ***I like meeting people who build things*** - say hi, I'd be happy to chat!
+🤝 say hi, I'd be happy to chat! 🤝
